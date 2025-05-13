@@ -26,4 +26,4 @@ Open http://localhost:5173/ in your browser.
 
 ## Edit
 
-Start working in `src/components/HelloWorld.vue`.
+Start working in [`src/components/HelloWorld.vue`](src/components/HelloWorld.vue).
